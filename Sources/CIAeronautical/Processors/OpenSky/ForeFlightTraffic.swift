@@ -1,7 +1,7 @@
 // ********************** ForeFlightTraffic *********************************
-// * Copyright © Cenith Innovations, LLC - All Rights Reserved
+// * Copyright © Cearus, LLC - All Rights Reserved
 // * Created on 1/22/21, for 
-// * Matthew Elmore <matt@cenithinnovations.com>
+// * Matthew Elmore <matt@cearus.llc>
 // * Unauthorized copying of this file is strictly prohibited
 // ********************** ForeFlightTraffic *********************************
 

@@ -1,7 +1,7 @@
 // ********************** Date+Extensions *********************************
-// * Copyright © Cenith Innovations - All Rights Reserved
+// * Copyright © Cearus - All Rights Reserved
 // * Created on 12/16/20, for CIAeronautical
-// * Matthew Elmore <matt@cenithinnovations.com>
+// * Matthew Elmore <matt@cearus.llc>
 // * Unauthorized copying of this file is strictly prohibited
 // ********************** Date+Extensions *********************************
 

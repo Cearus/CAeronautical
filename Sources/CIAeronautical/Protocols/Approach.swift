@@ -1,7 +1,7 @@
 // ********************** File *********************************
-// * Copyright © Cenith Innovations, LLC - All Rights Reserved
+// * Copyright © Cearus, LLC - All Rights Reserved
 // * Created on 12/24/20, for CIAeronautical
-// * Elmo <matt@cenithinnovations.com>
+// * Elmo <matt@cearus.llc>
 // * Unauthorized copying of this file is strictly prohibited
 // ********************** Approach *********************************
 
