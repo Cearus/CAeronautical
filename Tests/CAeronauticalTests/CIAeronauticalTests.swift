@@ -1,5 +1,5 @@
 import XCTest
-@testable import CIAeronautical
+@testable import CAeronautical
 
 final class CIAeronauticalTests: XCTestCase {
     func testExample() {

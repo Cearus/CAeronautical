@@ -4,20 +4,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "CIAeronautical",
+    name: "CAeronautical",
     platforms: [.iOS(.v13), .macOS(.v10_15)],
     products: [
         .library(
-            name: "CIAeronautical",
-            targets: ["CIAeronautical"]),
+            name: "CAeronautical",
+            targets: ["CAeronautical"]),
     ],
     dependencies: [],
     targets: [
         .target(
-            name: "CIAeronautical",
+            name: "CAeronautical",
             dependencies: []),
         .testTarget(
-            name: "CIAeronauticalTests",
-            dependencies: ["CIAeronautical"]),
+            name: "CAeronauticalTests",
+            dependencies: ["CAeronautical"]),
     ]
 )
