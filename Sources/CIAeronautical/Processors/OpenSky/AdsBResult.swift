@@ -1,6 +1,6 @@
 // ********************** AdsBResult *********************************
 // * Copyright © Cearus, LLC - All Rights Reserved
-// * Created on 1/22/21, for CIAeronautical
+// * Created on 1/22/21, for CAeronauticalCIAeronautical
 // * Matthew Elmore <matt@cearus.llc>
 // * Unauthorized copying of this file is strictly prohibited
 // ********************** AdsBResult *********************************
